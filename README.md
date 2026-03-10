@@ -18,3 +18,13 @@ Framework teorico e di simulazione che unifica:
 - Proiezioni Kardashev Type II/III tramite array vacuum-energy scalabili
 
 ## Struttura del repository
+
+
+
+@misc{PhysSoliman2026,
+  author = {PhysSoliman},
+  title = {TET--CVTL: Topological Eternal Torque – Chiral Vacuum Topology Lattice},
+  year = {2026},
+  howpublished = {\url{https://github.com/TETcollective/TET-CVTL-Framework}},
+  note = {Preprint + simulation codes}
+}
