@@ -21,10 +21,18 @@ Framework teorico e di simulazione che unifica:
 
 
 
-@misc{PhysSoliman2026,
-  author = {PhysSoliman},
-  title = {TET--CVTL: Topological Eternal Torque – Chiral Vacuum Topology Lattice},
-  year = {2026},
-  howpublished = {\url{https://github.com/TETcollective/TET-CVTL-Framework}},
-  note = {Preprint + simulation codes}
+## Citazione / How to Cite
+
+
+```bibtex
+@misc{PhysSoliman2026_TETCVTL,
+  author       = {PhysSoliman},
+  title        = {TET--CVTL: Topological Eternal Torque -- Chiral Vacuum Topology Lattice},
+  year         = {2026},
+  howpublished = {\url{https://github.com/TETcollective/TET-CVTL-Topological-Vacuum-Torque-Lattice}},
+  note         = {Preprint + simulation codes (QuTiP, Floquet, CISS, vacuum torque)},
+  url          = {https://github.com/TETcollective/TET-CVTL-Topological-Vacuum-Torque-Lattice},
+  eprint       = {arXiv:XXXX.XXXXX},  % aggiorna quando carichi su arXiv
+  archivePrefix= {arXiv},
+  primaryClass = {cond-mat.mes-hall, quant-ph}
 }
