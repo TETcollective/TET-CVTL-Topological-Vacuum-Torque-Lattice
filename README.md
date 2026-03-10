@@ -26,7 +26,7 @@ Framework teorico e di simulazione che unifica:
 
 ```bibtex
 @misc{PhysSoliman2026_TETCVTL,
-  author       = {PhysSoliman},
+  author       = {Simon Soliman},
   title        = {TET--CVTL: Topological Eternal Torque -- Chiral Vacuum Topology Lattice},
   year         = {2026},
   howpublished = {\url{https://github.com/TETcollective/TET-CVTL-Topological-Vacuum-Torque-Lattice}},
