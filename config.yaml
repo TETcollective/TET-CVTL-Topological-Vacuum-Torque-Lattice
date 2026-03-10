@@ -1,0 +1,17 @@
+import yaml
+
+config_data = {
+    'N': 3, # Number of qubits
+    'drive_frequency': 1.0, # Omega
+    'drive_amplitude': 0.5, # Lambda
+    'periods': 10, # Number of Floquet periods for simulation
+    'time_points_per_period': 100, # Points per period for tlist
+    'num_runs': 10, # Number of parallel runs
+    'parallel_cores': -1 # -1 means use all but one CPU core
+}
+
+with open('config.yaml', 'w') as f:
+    yaml.dump(config_data, f)
+
+print("config.yaml created successfully:")
+print(yaml.dump(config_data))
