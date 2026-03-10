@@ -21,6 +21,18 @@ Framework teorico e di simulazione che unifica:
 
 
 
+
+
+## Paper PDF
+
+📄 Versione completa (draft marzo 2026):  
+- [Zenodo con DOI permanente](https://doi.org/10.5281/zenodo.XXXXXXXX)  
+
+
+
+
+
+
 ## Citazione / How to Cite
 
 
